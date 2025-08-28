@@ -1,1 +1,13 @@
-Goto https://facebook.com, enter email as abc@gmail.com, enter password as ABC@123, click on Login, wait for 3 seconds
+#facebook login test
+Goto https://facebook.com, 
+enter email as abc@gmail.com, 
+enter password as ABC@123, 
+click on Login, 
+wait for 3 seconds
+
+#twitter login test
+Goto https://x.com, 
+enter email as abc@gmail.com, 
+enter password as ABC@123, 
+click on Login, 
+wait for 3 seconds
